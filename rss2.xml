@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>XunWang&#39;s blog</title>
-    <link>http://XunWang.com/</link>
+    <link>http://xunwang-njucs.me/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>start  from zero</description>
@@ -13,8 +13,8 @@
     
     <item>
       <title>hello</title>
-      <link>http://XunWang.com/2017/08/26/hello/</link>
-      <guid>http://XunWang.com/2017/08/26/hello/</guid>
+      <link>http://xunwang-njucs.me/2017/08/26/hello/</link>
+      <guid>http://xunwang-njucs.me/2017/08/26/hello/</guid>
       <pubDate>Sat, 26 Aug 2017 06:38:25 GMT</pubDate>
       <description>
       
@@ -26,13 +26,13 @@
       <content:encoded><![CDATA[<p>小扇子，哈哈哈哈哈哈哈哈哈</p>
 ]]></content:encoded>
       
-      <comments>http://XunWang.com/2017/08/26/hello/#disqus_thread</comments>
+      <comments>http://xunwang-njucs.me/2017/08/26/hello/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://XunWang.com/2017/08/26/hello-world/</link>
-      <guid>http://XunWang.com/2017/08/26/hello-world/</guid>
+      <link>http://xunwang-njucs.me/2017/08/26/hello-world/</link>
+      <guid>http://xunwang-njucs.me/2017/08/26/hello-world/</guid>
       <pubDate>Sat, 26 Aug 2017 05:08:10 GMT</pubDate>
       <description>
       
@@ -51,7 +51,7 @@
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content:encoded>
       
-      <comments>http://XunWang.com/2017/08/26/hello-world/#disqus_thread</comments>
+      <comments>http://xunwang-njucs.me/2017/08/26/hello-world/#disqus_thread</comments>
     </item>
     
   </channel>
